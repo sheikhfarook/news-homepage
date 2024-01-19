@@ -1,7 +1,7 @@
 import letter from "../assets/W..svg";
 const Header = () => {
   return (
-    <div className="flex justify-between m-20 mx-44">
+    <div className="flex justify-between m-20 mx-44 font-inter">
       <div>
         <img
           className="w-[4.00575rem] h-[2.49375rem] shrink-0"

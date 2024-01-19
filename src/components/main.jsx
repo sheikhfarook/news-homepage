@@ -1,7 +1,7 @@
 import web from "../assets/vasilis-chatzopoulos-6lwyzronth8-unsplash.svg";
 const Main = () => {
   return (
-    <div className="mx-44 gap-5 flex">
+    <div className="mx-44 gap-5 flex font-inter">
       <div>
         <div>
           <img className="" src={web} alt="" />
