@@ -3,3 +3,9 @@
   @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .visibility {
+    visibility: hidden;
+  }
+}
